@@ -53,8 +53,23 @@ In this lesson we have learned:
 
 Kaggle is an excellent source of open datasets. Use the [dataset search tool](https://www.kaggle.com/datasets) to find some interesting datasets and classify 3-5 datasets with this criteria:
 
+1. https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023
 - Is the data quantitative or qualitative?
+-- Quantitative & Qualitative (depends on the column)
 - Is the data structured, unstructured, or semi-structured?
+-- semi-structured
+
+2. https://www.kaggle.com/datasets/harbhajansingh21/german-traffic-sign-dataset
+- Is the data quantitative or qualitative?
+-- Qualitative
+- Is the data structured, unstructured, or semi-structured?
+-- structured
+
+3. https://www.kaggle.com/datasets/dhruvildave/wikibooks-dataset
+- Is the data quantitative or qualitative?
+  -- Qualitative
+- Is the data structured, unstructured, or semi-structured?
+  -- structured
 
 ## [Post-Lecture Quiz](https://purple-hill-04aebfb03.1.azurestaticapps.net/quiz/5)
 
